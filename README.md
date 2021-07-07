@@ -2,7 +2,7 @@
  This package  is used to implement the HOPMCLDA algorithm
  
  title: HOPMCLDA: predicting lncRNA–disease associations based on high-order proximity and matrix completion
- ==
+--
 # Description
  "HOP.m" function of calculate the higher order proximity.
 
