@@ -1,6 +1,6 @@
 function [T_recovery, iter] = MC(omega, alpha, beta, T, trIndex, tol, maxiter, a, b)
 %% 
-% Usage:  [T_recovery, iter] = HOPMCLDA(omega, alpha, beta, T, trIndex, tol1, tol2, maxiter, a, b)
+% Usage:  [T_recovery, iter] = MC(omega, alpha, beta, T, trIndex, tol1, tol2, maxiter, a, b)
 %
 % Inputs:
 %        omega, alpha, beta        - parameters needed to give.
