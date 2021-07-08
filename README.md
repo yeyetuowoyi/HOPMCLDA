@@ -8,7 +8,7 @@
 
  "MC.m"  function of Bounded Nuclear Norm Regularization algorithm.
  
- "HOPMCLDA_loocv.m" function of Leave one for cross-validation.
+ "HOPMCLDA_loocv.m" is Leave one for cross-validation.
  
  "roc.m" function of draw the ROC graph.
  
